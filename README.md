@@ -8,7 +8,8 @@
 
 Датасет доступен для скачивания по ссылке:
 
-[Скачать hh_test.csv]https://drive.google.com/file/d/15fGQii4hKAgDWftnqd8nJOhXjIVyzQhA/view?usp=sharing
+[Скачать hh_test.csv]
+https://drive.google.com/file/d/15fGQii4hKAgDWftnqd8nJOhXjIVyzQhA/view?usp=sharing
 
 ## Структура проекта
 
