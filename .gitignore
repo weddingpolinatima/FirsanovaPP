@@ -1,0 +1,13 @@
+
+# Не загружать большой датасет на GitHub
+hh_test.csv
+
+# Временные файлы Python
+__pycache__/
+*.pyc
+
+# Временные файлы Jupyter
+.ipynb_checkpoints/
+
+# Системные файлы macOS
+.DS_Store
